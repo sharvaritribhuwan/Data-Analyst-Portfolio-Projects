@@ -12,8 +12,8 @@
   https://github.com/sharvaritribhuwan/Data-Analyst-Portfolio-Projects/blob/main/bellabeat-case-study-using-r.ipynb
 2. Dashboard: https://public.tableau.com/app/profile/sharvari.tribhuwan/viz/BellabeatCaseStudy_16783622676070/Dashboard1
 
-### Covid Data Analysis and Exploration Using Python and SQL
-1. Markdown:
+### Covid Data Analysis and Exploration Using  SQL
+1. Markdown: https://github.com/sharvaritribhuwan/Data-Analyst-Portfolio-Projects/blob/main/covid-data-analysis-and-exploration-using-sql.ipynb
 2. Dashboard:https://public.tableau.com/app/profile/sharvari.tribhuwan/viz/Covid_analysis_dashboard/Dashboard1
 
 ### Youtube Video Data Analysis Using Tableau
