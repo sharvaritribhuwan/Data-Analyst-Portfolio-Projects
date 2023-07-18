@@ -24,5 +24,8 @@
 1. Markdown : https://github.com/sharvaritribhuwan/Data-Analyst-Portfolio-Projects/blob/main/palmer-penguins-case-study%20(1).ipynb
 2. Dashboard : https://public.tableau.com/app/profile/sharvari.tribhuwan/viz/Palmer_penguins_dashboard/Dashboard1
 
-### Covid Vaccination Data Analysis Using Python...Ongoing
+### Covid Vaccination Data Analysis Using Python
 1.Markdown :https://github.com/sharvaritribhuwan/Data-Analyst-Portfolio-Projects/blob/main/covid-vaccination-data-analysis.ipynb
+
+### Data Cleaning and Exploration Using Python
+Markdown :
